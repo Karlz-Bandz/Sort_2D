@@ -1,6 +1,4 @@
 # Sort_2D
-More informations in README file
-
 
 This application can sort co_ordinates x, y from farthest to nearest
 to point 0,0. 
